@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a captain of the Army, to an honourable member of parliament. Dated at Tadcaster, January 2. 1659.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87921</idno><idno type="EEBO-CITATION">99867032</idno>
+  <idno type="VID">168759</idno>
+  <idno type="EEBO-PROQUEST">2240935519</idno>
+  
+            <idno type="STC">Wing L1366</idno>
+            <idno type="STC">Thomason E1013_9</idno>
+            <idno type="STC">ESTC R208026</idno>
+            <idno type="PROQUEST">99867032</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867032e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168759)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a captain of the Army, to an honourable member of parliament. Dated at Tadcaster, January 2. 1659.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Streater, and John Macock, printers to the Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168759:1"/>
+            <p>A LETTER From a Captain of the Army, To an Honourable Member OF PARLIAMENT.</p>
+            <p>Dated at <hi>Tadcaster,</hi> January 2. 1659.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parlia<g ref="char:EOLhyphen"/>ment, 1659. <add>Jan. 9</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168759:2"/>
+            <pb n="3" facs="tcp:168759:2"/>
+            <head>A LETTER From a Captain of the Army, To an Honorable Member of Parliament.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>YOu cannot but have heard how my Ma<g ref="char:EOLhyphen"/>jor and all his Officers, Captain <hi>Wilkin<g ref="char:EOLhyphen"/>son</hi> alone, and my self, and Cornet, all along since this late force put upon the Parliament, have opposed my Lord <hi>Lambert,</hi> and the rest in their Transactions, which was of no small advantage to General <hi>Monck,</hi> and and encouragement to his Forces, as also to the dis<g ref="char:EOLhyphen"/>couragement of Lord <hi>Lamberts</hi> Forces, as he himself declared, (I may say with a sad heart, to us) and when he could not by any threats nor invitations draw us after him in this undertaking; he was plea<g ref="char:EOLhyphen"/>sed, contrary to our own and friends expectations, to leave us to our liberties; and he desired us not to think much with them to struggle for their lives. Ma<g ref="char:EOLhyphen"/>ny passages we had, too tedious to relate by Pen, the 16th of <hi>Decemb.</hi> the 17th I went to my Troop that lay at <hi>Easinton</hi> in <hi>Bishoprick,</hi> and found them free to follow me either to joyn with General <hi>Monck,</hi> or as I see cause; I sent most of those that lived near
+<pb n="4" facs="tcp:168759:3"/>me home, and my Major did the like of his, which was in order indeed to have secured <hi>York,</hi> which with the assistance of other friends, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had made a good progress in, and got home the 20th, and did appoint to meet my Major, Captain <hi>Wilkinson,</hi> and some friends at <hi>Thirsk</hi> to consult, where we resolved to get what Forces together as we could, and appear in the Field, the Fryday following, being the 30 <hi>Decemb.</hi> I was to meet Colonel <hi>Bethel,</hi> Sir <hi>Francis Boynton,</hi> Sir <hi>Chomley,</hi> and some other Gentlemen at <hi>Malton</hi> (which we did) Colonel <hi>Bethel</hi> brought, and Sir <hi>Francis B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynton</hi> brought about 100 Horse, Sir <hi>Henry Cholmley</hi> and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is friends had 100 more, I had most of my Troop, with my Colours, and about 20 more of my Neighbours well appointed. I must not omit to let you know, that <hi>William Gower</hi> did appear with a party of about twenty Horse, which gave great of<g ref="char:EOLhyphen"/>fence to Colonel <hi>Bethel,</hi> and the most of the Gentle<g ref="char:EOLhyphen"/>men there; neither could I admit him, and declar'd I would oppose any such person, if they did appear with us; thereupon he withdrew himself. I met <hi>Richard Mounton</hi> with a Sword that day in <hi>Malton</hi> Market-place, where I disarmed him; I marched that night to <hi>Hemsley,</hi> Sir <hi>Henry Cholmley</hi> to his own house, Col. <hi>Bethel</hi> and his Company to <hi>Honingham,</hi> with intention to Randezvouz on Saturday on <hi>Bagbie Moore,</hi> where my Major, Captain <hi>Wilkinson,</hi> and Captain <hi>Lilburn,</hi> was to meet us with what Forces they could make, but my Lord <hi>Lamberts</hi> Forces falling back in a strange confusion, some part of them into <hi>Yorkshire,</hi> my Major was forc'd to come away that night with most of his own Troop, intending for <hi>Kirkbie Moor<g ref="char:EOLhyphen"/>side,</hi>
+               <pb n="5" facs="tcp:168759:3"/>where by accident he met with my party that was sent to take up Quarters for me at <hi>Hemsley,</hi> and so staid there, about six a clock comes Captain <hi>Lil<g ref="char:EOLhyphen"/>burn</hi> with about fifty of his old Troop, and their Co<g ref="char:EOLhyphen"/>lours, which left their Officers in bed, unexpect<g ref="char:EOLhyphen"/>edly to us about ten a clock at night, M. <hi>Smi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hson</hi> my Majors Brother, sent us intelligence that the <hi>Irish</hi> Brigade of Horse were in a staggering condition, and he thought would be willing to joyn with us: imme<g ref="char:EOLhyphen"/>diately thereupon we sent my Cornet with our Let<g ref="char:EOLhyphen"/>ter to them <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o invite them to so good a work, which they kindly accepted, and declared with us for this present Parliament, as it was <hi>August</hi> the 10th. We Randezvouzed on Saturday by day, at <hi>Earsley</hi> with about 450 Horse, and resolved, and did march that night to <hi>Knasebrough,</hi> where we met with my Lord <hi>Fairfax,</hi> Captain <hi>Wilkinson,</hi> and a party of about 120. the Duke of <hi>Buckingham</hi> was there, and some others, as Col. <hi>Branbin,</hi> which gave a great occasion of of<g ref="char:EOLhyphen"/>fence, not onely to us of the Army, and the <hi>Irish</hi> Bri<g ref="char:EOLhyphen"/>gade, who quartered that night at <hi>Wether<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie,</hi> but to honest Col. <hi>Bethel,</hi> Sir <hi>Francis Boynton,</hi> and many Gentlemen with us. We resolved yesterday morning by seven of the clock to Randevouz all our Forces on <hi>Hessam Moore,</hi> where we had a Gallant Body of Horse about 1800, who would not endure the Duke, nor any known Cavalier amongst us. The Duke went away in some trouble, that we would not ad<g ref="char:EOLhyphen"/>mit him to venture his life with us, and all that was dear unto him for the same thing we declared for, and protested it his judgment to stand with this present Parliament.</p>
+            <pb n="6" facs="tcp:168759:4"/>
+            <p>I told him we did believe what he express'd, but withal told him, though he intended good, yet he could not but be sensible that our honest Friends in the Army and Country would not believe it; and that it was the only means under Heaven to keep the Souldiers under the L. <hi>Lambert</hi> together if he did ap<g ref="char:EOLhyphen"/>pear with us, or any Cavaliers, and that we were re<g ref="char:EOLhyphen"/>solved to appear against any such, and in short forc'd him to withdraw▪ Then we read our resolutions in the Head of every Troop, which is the same with the Irish Brigade, which was unanimously approved by the Souldiers and all our old Officers, as also Co<g ref="char:EOLhyphen"/>lonel <hi>Bethel,</hi> and Sir <hi>Francis Boynton,</hi> and many Gen<g ref="char:EOLhyphen"/>tlemen which were free to subscribe their Hands and Seals with us: My Lord <hi>Fairfax,</hi> Sir <hi>Henry Cholm<g ref="char:EOLhyphen"/>ley,</hi> Mr. <hi>Ardinton,</hi> and some others, profess'd they owned the same thing with us, and said my Lord would give the Parliament an Account of his Inten<g ref="char:EOLhyphen"/>tions with all speed, he doubted not but to our satis<g ref="char:EOLhyphen"/>faction. We then march'd forthwith before <hi>York,</hi> and went close to the Gates, and had conference with the Officers and Souldiers, but before we sent Mr. <hi>John Allured</hi> with a Trumpetter to the Lord Mayor to demand <hi>York</hi> for the Parliaments use, which the Guards would not admit, but at the last by Parley with my Colonel, the Irish Brigade and my Major with his Troop was admitted, but mine and Captain <hi>Lilburn</hi>'s would not be suffered to go in; so we with all the parties belonging to the several Gentlemen fell into the Villages to quarter. I hear the Lord <hi>Lam<g ref="char:EOLhyphen"/>bert</hi> for certain is in <hi>York,</hi> and all his Forces are dis<g ref="char:EOLhyphen"/>persed. I think all our Country parties will disperse
+<pb n="7" facs="tcp:168759:4"/>to their several Houses this day. My Lord <hi>Fairfax</hi> went not into <hi>York,</hi> It is a great and never to be for<g ref="char:EOLhyphen"/>gotten mercy, that this Army under the Lord <hi>Lam<g ref="char:EOLhyphen"/>bert</hi> should without blood be brought again to the obedience of the Parliament, who I doubt not but will be mercifull above Justice, to the greatest offen<g ref="char:EOLhyphen"/>ders, I mean as to taking of life; I had forgot to tell you, that on Satturday we had intelligence that three of Colonels <hi>Hackers</hi> Troop was marching towards <hi>Burough Bridge,</hi> which we endeavoured to meet with, and did; they told us they were marching towards <hi>Notinghamshire,</hi> and was for the Parliament, but being commanded by Captain <hi>Walle,</hi> who hath been a Ca<g ref="char:EOLhyphen"/>valier, and an evill and active Instrument in this evil Undertaking, made us a little more strict with them; at the the last they engaged they would stand by this Parliament against all opposers: and we did believe the Souldiers, but was a little jealous of <hi>Walle,</hi> with whom I hope you will take course to quit the Army of. Sir, I am tedious, and in hast pardon this Scri<g ref="char:EOLhyphen"/>bling of</p>
+            <closer>
+               <signed>Your faithful Servant.</signed>
+               <dateline>Tadcaster, <date>Ianu. 2 1659.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I am just now informed that the Lord <hi>Lambert</hi> is not come to <hi>York,</hi> but expected there this night onely with a Reformadoe Troop. I am sent for by my Major to go to <hi>York,</hi> and when we have settled our affairs there, I think
+<pb n="8" facs="tcp:168759:5"/>one of us will come up to <hi>London</hi> I have about twenty men more then my Troop, who amongst the rest that hath freely appeared for you, which I desire may be cared for: Pray Sir, get me an Order, if you think fit, that they may be continued in my Troop, until they can be placed in the Regiment, for we have too many that pretend good.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
